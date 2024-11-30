@@ -7,18 +7,11 @@ The paper estimates the causal impact of the Partygate scandals on identificatio
 ## Repository contents
 
 ### Data folder
-The [Data](./Data/) folder contains the raw datasets used in the analysis:
-- [GLES panel](./Data/GLES%20panel/): contains waves 1 through 21 of the German Longitudinal Election Study, obtained from GESIS - Leibniz Institut für Sozialwissenschaften.
-- [Constituency structural data](./Data/Constituency%20structural%20data/): contains all covariates, which have been obtained from the Statistical Officer for the Länder ([land_surface.csv](./Data/Constituency%20structural%20data/land_surface.csv), [total_population.csv](./Data/Constituency%20structural%20data/total_population.csv), [total_foreigners.csv](./Data/Constituency%20structural%20data/total_foreigners.csv)), the Federal Employment Agency ([unemployment_2017_2018.xlsx](./Data/Constituency%20structural%20data/unemployment_2017_2018.xlsx), [unemployment_2020_2021.xlsx](./Data/Constituency%20structural%20data/unemployment_2020_2021.xlsx)), and the conversion table that is used to aggregate administrative-district-level covariates to the constituency level.
-- [Constituency returns](./Data/Constituency%20returns/): contains [afd_results.xlsx](./Data/Constituency%20returns/afd_results.xlsx), which shows the results of AfD by Land in the 2017 and 2021 federal elections; this data was manually collected from the Federal Returning Officer website.
+The [Data](./Data/) folder contains the documentation for the British Election Study Combined Wave 1-26 Internet Panel. The dataset itself is too large to upload, but it is publicly available here: https://www.britishelectionstudy.com/data-object/british-election-study-combined-wave-1-26-internet-panel/. Creation of an account is needed to download the file. 
 
 ### Code folder
 The [Code](./Code/) folder contains the R files to reproduce the analysis in the paper:
-- [Core analysis.R](./Code/Core%20analysis.R): code to reproduce the analysis described in the main body of the paper.
-- [Appendix B.R](./Code/Appendix%20B.R): code to compute descriptive statistics for the outcome variables.
-- [Appendix C.R](./Code/Appendix%20C.R): code to test for the parallel trends assumption.
-- [Appendix D.R](./Code/Appendix%20D.R): code to run the attrition analysis.
-- [Appendix E.R](./Code/Appendix%20E.R): code to run all design and specification robustness checks.
-- [Figures.R](./Code/Figures.R): file to reproduce the figures in the main body of the paper.
+- [Core analysis.R](./Code/Core%20analyses.R): code to reproduce the empirical analyses, tables, and figures included in the paper.
+- [Appendix B.R](./Code/Robustness.R): code to reproduce the empirical analyses and tables included in the Online Apendix.
 
 Please run the code in this order to avoid errors.
