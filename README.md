@@ -11,7 +11,7 @@ The [Data](./Data/) folder contains the documentation for the British Election S
 
 ### Code folder
 The [Code](./Code/) folder contains the R files to reproduce the analysis in the paper:
-- [Core analysis.R](./Code/Core%20analyses.R): code to reproduce the empirical analyses, tables, and figures included in the paper.
-- [Appendix B.R](./Code/Robustness.R): code to reproduce the empirical analyses and tables included in the Online Apendix.
+- [Core analyses.R](./Code/Core%20analyses.R): code to reproduce the empirical analyses, tables, and figures included in the paper.
+- [Robustness.R](./Code/Robustness.R): code to reproduce the empirical analyses and tables included in the Online Apendix.
 
 Please run the code in this order to avoid errors.
