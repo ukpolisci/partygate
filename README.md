@@ -15,3 +15,6 @@ The [Code](./Code/) folder contains the R files to reproduce the analysis in the
 - [Robustness.R](./Code/Robustness.R): code to reproduce the empirical analyses and tables included in the Online Apendix.
 
 Please run the code in this order to avoid errors.
+
+### Online Appendix
+The Online Appendix is available here. 
