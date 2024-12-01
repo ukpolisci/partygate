@@ -17,4 +17,4 @@ The [Code](./Code/) folder contains the R files to reproduce the analysis in the
 Please run the code in this order to avoid errors.
 
 ### Online Appendix
-The Online Appendix is available here. 
+The [Online Appendix](./Online%20Appendix.pdf) is available in this repository. 
