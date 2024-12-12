@@ -17,7 +17,7 @@ The [Code](./Code/) folder contains the R files to reproduce the analysis in the
 Please run the code in this order to avoid errors.
 
 ### Working paper
-The full working paper is available [here](./Unstable_partisanship_during_scandals.pdf).
+The full working paper is available [here](./Partygate.pdf).
 
 ### Online Appendix
 The Online Appendix to the main paper is available [here](./Partygate_Online_Appendix.pdf).
