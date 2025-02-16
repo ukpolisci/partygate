@@ -1,5 +1,5 @@
 # partygate
-This repository contains the replication materials for the paper "Unstable Partisanship during Scandals: Estimating the Causal Impact of Partygate on Identification with and SUpport for the British Conservative Party". 
+This repository contains the replication materials for the paper "Unstable Partisanship during Scandals: Estimating the Causal Impact of Partygate on Identification with and Support for the British Conservative Party". 
 
 The paper estimates the causal impact of the Partygate scandals on identification with and support for the British Conservative Party using an Unexpected Event during Survey Design on Waves 21 and 22 of the British Election Study Internet Panel. 
 
