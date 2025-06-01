@@ -1,5 +1,5 @@
 # partygate
-This repository contains the replication materials for the paper "Unstable Partisanship during Scandals: Estimating the Causal Impact of Partygate on Identification with and Support for the British Conservative Party". 
+This repository contains the replication materials for the paper "Do Scandals Affect Political Behaviour? Evidence from Partygate and the British Conservative Party". 
 
 The paper estimates the causal impact of the Partygate scandals on identification with and support for the British Conservative Party using an Unexpected Event during Survey Design on Waves 21 and 22 of the British Election Study Internet Panel. 
 
@@ -15,9 +15,3 @@ The [Code](./Code/) folder contains the R files to reproduce the analysis in the
 - [Robustness.R](./Code/Robustness.R): code to reproduce the empirical analyses and tables included in the Online Apendix.
 
 Please run the code in this order to avoid errors.
-
-### Working paper
-The full working paper is available [here](./Partygate.pdf).
-
-### Online Appendix
-The Online Appendix to the main paper is available [here](./Partygate_Online_Appendix.pdf).
